@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pramsh
 - 👀 I’m interested in full stack developement
-- 🌱 I’m currently learning studing Robotic Engineering
+- 🌱 I’m currently working on some Google Certifications
 - 💞️ I’m looking to collaborate on start up and enterprises
 - 📫 How to reach me rpramstrahler@gmail.com
 
