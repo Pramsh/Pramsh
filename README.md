@@ -2,7 +2,7 @@
 Hello! 👋 I'm a passionate web developer with a strong focus on Node.js and TypeScript. Over the past few years, I've delved deeply into building robust microservices infrastructures and deploying them seamlessly in the cloud ☁️. My journey has taken me further into exploring Next.js and React Module Federation to better understand and implement efficient microfrontend architectures.
 ## My Favorite Tech Stack 💻
 ### Web development 🌐
-* **Frontend**: Next.js, Tailwind CSS
+* **Frontend**: Next.js, React.js, Tailwind CSS
 * **Backend**: Node.js, Express
 * **Languages**: TypeScript, Javascript
 * **APIs and Communication**: REST, GraphQL, WebSocket, Events
