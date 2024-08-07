@@ -5,7 +5,7 @@ Hello! 👋 I'm a passionate web developer with a strong focus on Node.js and Ty
 * **Frontend**: Next.js, Tailwind CSS
 * **Backend**: Node.js, Express
 * **Languages**: TypeScript, Javascript
-* **APIs and Communication**: REST, GraphQL, WebSocket
+* **APIs and Communication**: REST, GraphQL, WebSocket, Events
 * **Databases**: MongoDB, Cloud SQL for PostgreSQL
 * **Containerization**: Docker
 * **Cloud Services**: Google Cloud Platform (Gateway, Cloud Run, Redis)
