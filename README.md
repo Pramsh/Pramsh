@@ -9,7 +9,7 @@ Hello! 👋 I'm a passionate web developer with a strong focus on Node.js and Ty
 * **Databases**: MongoDB, Cloud SQL for PostgreSQL
 * **Containerization**: Docker
 * **Cloud Services**: Google Cloud Platform (Gateway, Cloud Run, Redis)
-* *Learning module federation for micro.fe architectures*
+* *Learning module federation for micro-fe architectures*
 
 
 
